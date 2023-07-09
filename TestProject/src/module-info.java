@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author intel
- *
- */
-module TestProject {
-}
